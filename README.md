@@ -1,2 +1,2 @@
 # ml_projects
-Here are educative ml projects
+Here are my educative ml projects
